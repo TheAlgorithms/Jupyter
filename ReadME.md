@@ -6,7 +6,7 @@
 ## Clone git repository
 
 ```sh
-    $ Git clone "https://github.com/TheAlgorithms/Jupyter.git"
+    $ git clone "https://github.com/TheAlgorithms/Jupyter.git"
 ```
 
 You can run and edit the algorithms or contribute to them using [Gitpod.io](https://www.gitpod.io/), a free online development environment, with a single click.
@@ -15,7 +15,7 @@ You can run and edit the algorithms or contribute to them using [Gitpod.io](http
 
 ## Contributing
 
-Please read [Contributing.md](./CONTRIBUTION.md/Contributing.md) for information on how to contribute to Jupyter.
+Please read [Contributing.md](Contributing.md) for information on how to contribute to Jupyter.
 
 ## License
 
