@@ -2,6 +2,7 @@
 
 ![](https://img.shields.io/github/repo-size/TheAlgorithms/Jupyter) ![](https://img.shields.io/github/downloads/TheAlgorithms/Jupyter/total)<br>
 ![](https://img.shields.io/github/issues/TheAlgorithms/Jupyter?color=green) ![](https://img.shields.io/github/issues-pr/TheAlgorithms/Jupyter?color=green) ![](https://img.shields.io/github/last-commit/TheAlgorithms/Jupyter) ![](https://img.shields.io/github/contributors/TheAlgorithms/Jupyter)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/TheAlgorithms/Jupyter/master)
 
 ## Clone git repository
 
