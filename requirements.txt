@@ -6,3 +6,6 @@ pandas
 seaborn
 sklearn
 tensorflow
+beautifulsoup4
+tabulate
+requests
