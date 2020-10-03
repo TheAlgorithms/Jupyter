@@ -1,8 +1,11 @@
+beautifulsoup4
 keras
 matplotlib
 mlxtend
 numpy
 pandas
+requests
 seaborn
 sklearn
+tabulate
 tensorflow
