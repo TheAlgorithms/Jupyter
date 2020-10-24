@@ -14,10 +14,21 @@ You can run and edit the algorithms or contribute to them using [Gitpod.io](http
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](http://gitpod.io/#https://github.com/TheAlgorithms/Jupyter)
 
+## Contributing New Algorithms
+	
+* Make your pull requests to be **specific** and **focused**. Instead of contributing "several algorithms" all at once contribute them all one by one separately (i.e. one pull request for "Logistic Regression", another one for "K-Means" and so on).
+
+* Every new algorithm must have:
+	* **Source code** with comments and readable namings
+	* **Math** being explained in README.md along with the code
+	* **Jupyter demo notebook** with example of how this new algorithm may be applied
+
+If you're adding new **datasets** they need to be saved in the /data folder. CSV files are preferable. The size of the file should not be greater than `30Mb`.
+
 ## Contributing
 
-Please read [Contributing.md](Contributing.md) for information on how to contribute to Jupyter.
+Before submitting a bug, or any new feature please do the following: **[Check Contribution Guidelines Before Contribution](CONTRIBUTING.md)**.
 
 ## License
 
-Licensed under the [MIT License](./LICENSE.md/LICENSE.md) 
+Licensed under the [MIT License](LICENSE.md) 
