@@ -23,11 +23,11 @@ You can run and edit the algorithms or contribute to them using [Gitpod.io](http
 	* **Math** being explained in README.md along with the code
 	* **Jupyter demo notebook** with example of how this new algorithm may be applied
 
-If you're adding new **datasets** they need to be saved in the /data folder. CSV files are preferable. The size of the file should not be greater than `30Mb`.
+If you're adding new **datasets** they need to be saved in the `/data` folder. CSV files are preferable. The size of the file should not be greater than `30Mb`.
 
 ## Contributing
 
-Before submitting a bug, or any new feature please do the following: **[Check Contribution Guidelines Before Contribution](CONTRIBUTING.md)**.
+Before removing any bug, or adding new algorithm please do the following: **[Check Contribution Guidelines Before Contribution](CONTRIBUTING.md)** and also please read **[CODE OF CONDUCT](CODE_OF_CONDUCT.md)**.
 
 ## License
 
