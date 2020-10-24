@@ -27,7 +27,7 @@ If you're adding new **datasets** they need to be saved in the `/data` folder. C
 
 ## Contributing
 
-Before removing any bug, or adding new algorithm please do the following: **[Check Contribution Guidelines Before Contribution](CONTRIBUTING.md)** and also please read **[CODE OF CONDUCT](CODE_OF_CONDUCT.md)**.
+Before removing any bug, or adding new algorithm please do the following: **[Check Contribution Guidelines Before Contribution](Contributing.md)** and also please read **[CODE OF CONDUCT](CODE_OF_CONDUCT.md)**.
 
 ## License
 
