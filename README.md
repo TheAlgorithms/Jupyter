@@ -1,8 +1,6 @@
-[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/TheAlgorithms/Jupyter)
-
 ## Jupyter ![](https://img.shields.io/github/forks/TheAlgorithms/Jupyter?style=social) ![](https://img.shields.io/github/stars/TheAlgorithms/Jupyter?style=social) ![](https://img.shields.io/github/watchers/TheAlgorithms/Jupyter?style=social) <br>
 
-![](https://img.shields.io/github/repo-size/TheAlgorithms/Jupyter) ![](https://img.shields.io/github/downloads/TheAlgorithms/Jupyter/total)<br>
+![](https://img.shields.io/github/repo-size/TheAlgorithms/Jupyter) ![](https://img.shields.io/github/downloads/TheAlgorithms/Jupyter/total)  [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/TheAlgorithms/Jupyter)<br>
 ![](https://img.shields.io/github/issues/TheAlgorithms/Jupyter?color=green) ![](https://img.shields.io/github/issues-pr/TheAlgorithms/Jupyter?color=green) ![](https://img.shields.io/github/last-commit/TheAlgorithms/Jupyter) ![](https://img.shields.io/github/contributors/TheAlgorithms/Jupyter)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/TheAlgorithms/Jupyter/master)
 
