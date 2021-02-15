@@ -1,4 +1,5 @@
-beautifulsoup4
+tensorflow
+opencv-python
 keras
 matplotlib
 mlxtend
@@ -8,4 +9,7 @@ requests
 seaborn
 sklearn
 tabulate
-tensorflow
+scikit-fuzzy
+imutils
+pillow
+beautifulsoup4
