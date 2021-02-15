@@ -10,6 +10,6 @@ seaborn
 sklearn
 tabulate
 scikit-fuzzy
-imutils
 pillow
 beautifulsoup4
+skia-python
