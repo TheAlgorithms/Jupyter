@@ -29,6 +29,12 @@ If you're adding new **datasets** they need to be saved in the `/data` folder. C
 
 Before removing any bug, or adding new algorithm please do the following: **[Check Contribution Guidelines Before Contribution](Contributing.md)** and also please read **[CODE OF CONDUCT](CODE_OF_CONDUCT.md)**.
 
+We'd love to accept your patches and contributions to this project. There is just one thing you need to do first.
+
+All contributions must be accompanied by a Contributor License Agreement. This is not a copyright assignment. It simply gives permission to Google to use and redistribute your contributions. If you are an individual writing original source code and you are sure you own the intellectual property, then you'll need to sign an individual CLA. If you work for a company that allows you to contribute your work but retains copyright, then you'll need to sign a corporate CLA.
+
+You generally only need to submit a CLA to Google once, so if you've already submitted one (even for a different project), you probably don't need to do it again.
+
 ## License
 
 Licensed under the [MIT License](LICENSE.md) 
