@@ -1,0 +1,17 @@
+public class TrapezoidalRule {
+
+   static double f(double x) {
+      return Math.exp(- x * x / 2) / Math.sqrt(2 * Math.PI);
+   }
+
+   static double integrate(double a, double b, int N) {
+      double h = (b - a) / N;              // step size
+      double sum = 0.5 * (f(a) + f(b));    // area
+      for (int i = 1; i < N; i++) {
+         double x = a + h * i;
+         sum = sum + f(x);
+      }
+
+      return sum * h;
+   }
+
