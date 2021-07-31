@@ -1,17 +1,10 @@
-public class TrapezoidalRule {
+#parellel sides of the trapezoid:
+Base1 = float(input('Enter the First Base of a Trapezoid: '))
+Base2 = float(input('Enter the Second Base of a Trapezoid: '))
+#distance between  two parelle sides
+Height_of_Trapezoid= float(input('Enter the Height of a Trapezoid'))
 
-   static double f(double x) {
-      return Math.exp(- x * x / 2) / Math.sqrt(2 * Math.PI);
-   }
+# calculate the area of trapezoid
+area = 0.5 * (Base1 + Base2) * Height
 
-   static double integrate(double a, double b, int N) {
-      double h = (b - a) / N;              // step size
-      double sum = 0.5 * (f(a) + f(b));    // area
-      for (int i = 1; i < N; i++) {
-         double x = a + h * i;
-         sum = sum + f(x);
-      }
-
-      return sum * h;
-   }
-
+print("The Area of a trapezoid ",area)
