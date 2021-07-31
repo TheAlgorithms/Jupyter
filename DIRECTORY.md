@@ -6,6 +6,8 @@
   * [Scrapnewsfromindiatoday](https://github.com/TheAlgorithms/Jupyter/blob/master/Automaton/ScrapNewsfromIndiaToday.ipynb)
 
 ## Machine Learning
+  * Arima
+    * [Arima With Pyramid](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/ARIMA/ARIMA%20with%20pyramid.ipynb)
   * Associative Mining
     * [Association](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/Associative%20Mining/Association.ipynb)
   * Basics Of Tensorflow
