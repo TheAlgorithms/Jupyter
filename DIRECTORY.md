@@ -63,6 +63,8 @@
   * [Logistic Regression](https://github.com/TheAlgorithms/Jupyter/blob/master/neural_network/Logistic_Regression.ipynb)
   * [Neural Network Mnist Dataset](https://github.com/TheAlgorithms/Jupyter/blob/master/neural_network/Neural_network_Mnist_Dataset.ipynb)
   * [Qlearning](https://github.com/TheAlgorithms/Jupyter/blob/master/neural_network/qlearning.ipynb)
+  * Rnn
+    * [Rnn](https://github.com/TheAlgorithms/Jupyter/blob/master/neural_network/RNN/rnn.ipynb)
   * [Sequence Labelling With A Bilstm In Pytorch](https://github.com/TheAlgorithms/Jupyter/blob/master/neural_network/Sequence%20Labelling%20with%20a%20BiLSTM%20in%20PyTorch.ipynb)
   * [Style Transfer Pytorch](https://github.com/TheAlgorithms/Jupyter/blob/master/neural_network/style_transfer_pytorch.ipynb)
   * [Variational Autoencoder](https://github.com/TheAlgorithms/Jupyter/blob/master/neural_network/variational_autoencoder.ipynb)
