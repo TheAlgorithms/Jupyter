@@ -53,6 +53,8 @@
     * [Reuters One Vs Rest Classifier](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/Reuters_one_vs_rest_classifier/reuters_one_vs_rest_classifier.ipynb)
   * Scikit-Learn
     * [Scikit-Learn](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/Scikit-learn/Scikit-learn.ipynb)
+  * Support Vector Machine
+    * [Support Vector Machine](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/Support_Vector_Machine/Support%20Vector%20Machine.ipynb)
 
 ## Neural Network
   * [02-Imdb-Binary-Classification](https://github.com/TheAlgorithms/Jupyter/blob/master/neural_network/02-imdb-binary-classification.ipynb)
