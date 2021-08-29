@@ -49,6 +49,7 @@
     * [Random Forest Regression](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/random_forest_regression/random_forest_regression.py)
   * Reuters One Vs Rest Classifier
     * [Reuters One Vs Rest Classifier](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/Reuters_one_vs_rest_classifier/reuters_one_vs_rest_classifier.ipynb)
+  * [Robust Linear Regression](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/Robust%20Linear%20Regression.ipynb)
   * Scikit-Learn
     * [Scikit-Learn](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/Scikit-learn/Scikit-learn.ipynb)
 
