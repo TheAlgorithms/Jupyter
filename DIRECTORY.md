@@ -17,6 +17,7 @@
     * [Dbscan](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/dbscan/dbscan.py)
   * Decision Tree With K-Fold Cross Validation
     * [K-Fold-Cross Validation Of Decision Tree Regression](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/Decision%20tree%20with%20k-fold%20cross%20validation/k-fold-cross%20validation%20of%20decision%20tree%20regression.ipynb)
+    * [K-Fold-Cross Validation Of Decision Tree Regression2](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/Decision%20tree%20with%20k-fold%20cross%20validation/k-fold-cross%20validation%20of%20decision%20tree%20regression2.ipynb)
   * Decision Tree
     * [Decision Tree](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/Decision%20tree/Decision_Tree.ipynb)
   * Fundamentals Of Python
