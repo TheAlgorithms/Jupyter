@@ -71,6 +71,8 @@
     * [Rnn](https://github.com/TheAlgorithms/Jupyter/blob/master/neural_network/RNN/rnn.ipynb)
   * [Sequence Labelling With A Bilstm In Pytorch](https://github.com/TheAlgorithms/Jupyter/blob/master/neural_network/Sequence%20Labelling%20with%20a%20BiLSTM%20in%20PyTorch.ipynb)
   * [Style Transfer Pytorch](https://github.com/TheAlgorithms/Jupyter/blob/master/neural_network/style_transfer_pytorch.ipynb)
+  * Text Classification
+    * [Text Classification Using Bert](https://github.com/TheAlgorithms/Jupyter/blob/master/neural_network/Text%20Classification/text_classification_using_BERT.ipynb)
   * [Variational Autoencoder](https://github.com/TheAlgorithms/Jupyter/blob/master/neural_network/variational_autoencoder.ipynb)
 
 ## Numerical Methods
