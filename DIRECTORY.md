@@ -25,6 +25,7 @@
     * [Python Basics](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/Fundamentals%20of%20python/Python%20basics.ipynb)
   * [House Price Prediction](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/House_Price_Prediction.ipynb)
   * Linear Regression
+    * [Linear Regression Using Pandas](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/Linear_Regression/linear_regression_using_pandas.ipynb)
     * [Linearregression](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/Linear_Regression/LinearRegression.ipynb)
   * Matplotlib
     * [Matplotlib](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/Matplotlib/Matplotlib.ipynb)
