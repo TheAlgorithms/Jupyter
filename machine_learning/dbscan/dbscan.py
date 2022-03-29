@@ -1,37 +1,38 @@
+import warnings
+
 import matplotlib.pyplot as plt
 import numpy as np
 from sklearn.datasets import make_moons
-import warnings
 
 
 def euclidean_distance(q, p):
     """
-        Calculates the Euclidean distance
-        between points q and p
+    Calculates the Euclidean distance
+    between points q and p
 
-        Distance can only be calculated between numeric values
-        >>> euclidean_distance([1,'a'],[1,2])
-        Traceback (most recent call last):
-        ...
-        ValueError: Non-numeric input detected
+    Distance can only be calculated between numeric values
+    >>> euclidean_distance([1,'a'],[1,2])
+    Traceback (most recent call last):
+    ...
+    ValueError: Non-numeric input detected
 
-        The dimentions of both the points must be the same
-        >>> euclidean_distance([1,1,1],[1,2])
-        Traceback (most recent call last):
-        ...
-        ValueError: expected dimensions to be 2-d, instead got p:3 and q:2
+    The dimentions of both the points must be the same
+    >>> euclidean_distance([1,1,1],[1,2])
+    Traceback (most recent call last):
+    ...
+    ValueError: expected dimensions to be 2-d, instead got p:3 and q:2
 
-        Supports only two dimentional points
-        >>> euclidean_distance([1,1,1],[1,2])
-        Traceback (most recent call last):
-        ...
-        ValueError: expected dimensions to be 2-d, instead got p:3 and q:2
+    Supports only two dimentional points
+    >>> euclidean_distance([1,1,1],[1,2])
+    Traceback (most recent call last):
+    ...
+    ValueError: expected dimensions to be 2-d, instead got p:3 and q:2
 
-        Input should be in the format [x,y] or (x,y)
-        >>> euclidean_distance(1,2)
-        Traceback (most recent call last):
-        ...
-        TypeError: inputs must be iterable, either list [x,y] or tuple (x,y)
+    Input should be in the format [x,y] or (x,y)
+    >>> euclidean_distance(1,2)
+    Traceback (most recent call last):
+    ...
+    TypeError: inputs must be iterable, either list [x,y] or tuple (x,y)
     """
     if not hasattr(q, "__iter__") or not hasattr(p, "__iter__"):
         raise TypeError("inputs must be iterable, either list [x,y] or tuple (x,y)")
@@ -59,26 +60,26 @@ def euclidean_distance(q, p):
 
 def find_neighbors(db, q, eps):
     """
-        Finds all points in the db that
-        are within a distance of eps from Q
+    Finds all points in the db that
+    are within a distance of eps from Q
 
-        eps value should be a number
-        >>> find_neighbors({ (1,2):{'label':'undefined'}, (2,3):{'label':'undefined'}}, (2,5),'a')
-        Traceback (most recent call last):
-        ...
-        ValueError: eps should be either int or float
+    eps value should be a number
+    >>> find_neighbors({ (1,2):{'label':'undefined'}, (2,3):{'label':'undefined'}}, (2,5),'a')
+    Traceback (most recent call last):
+    ...
+    ValueError: eps should be either int or float
 
-        Q must be a 2-d point as list or tuple
-        >>> find_neighbors({ (1,2):{'label':'undefined'}, (2,3):{'label':'undefined'}}, 2, 0.5)
-        Traceback (most recent call last):
-        ...
-        TypeError: Q must a 2-dimentional point in the format (x,y) or [x,y]
+    Q must be a 2-d point as list or tuple
+    >>> find_neighbors({ (1,2):{'label':'undefined'}, (2,3):{'label':'undefined'}}, 2, 0.5)
+    Traceback (most recent call last):
+    ...
+    TypeError: Q must a 2-dimentional point in the format (x,y) or [x,y]
 
-        Points must be in correct format
-        >>> find_neighbors([], (2,2) ,0.4)
-        Traceback (most recent call last):
-        ...
-        TypeError: db must be a dict of points in the format {(x,y):{'label':'boolean/undefined'}}
+    Points must be in correct format
+    >>> find_neighbors([], (2,2) ,0.4)
+    Traceback (most recent call last):
+    ...
+    TypeError: db must be a dict of points in the format {(x,y):{'label':'boolean/undefined'}}
     """
 
     if not isinstance(eps, (int, float)):
@@ -97,35 +98,35 @@ def find_neighbors(db, q, eps):
 
 def plot_cluster(db, clusters, ax):
     """
-        Extracts all the points in the db and puts them together
-        as seperate clusters and finally plots them
+    Extracts all the points in the db and puts them together
+    as seperate clusters and finally plots them
 
-        db cannot be empty
-        >>> fig, axes = plt.subplots(nrows=1, ncols=2, figsize=(7, 5))
-        >>> plot_cluster({},[1,2], axes[1] )
-        Traceback (most recent call last):
-        ...
-        Exception: db is empty. No points to cluster
+    db cannot be empty
+    >>> fig, axes = plt.subplots(nrows=1, ncols=2, figsize=(7, 5))
+    >>> plot_cluster({},[1,2], axes[1] )
+    Traceback (most recent call last):
+    ...
+    Exception: db is empty. No points to cluster
 
-        clusters cannot be empty
-        >>> fig, axes = plt.subplots(nrows=1, ncols=2, figsize=(7, 5))
-        >>> plot_cluster({ (1,2):{'label':'undefined'}, (2,3):{'label':'undefined'}},[],axes[1] )
-        Traceback (most recent call last):
-        ...
-        Exception: nothing to cluster. Empty clusters
+    clusters cannot be empty
+    >>> fig, axes = plt.subplots(nrows=1, ncols=2, figsize=(7, 5))
+    >>> plot_cluster({ (1,2):{'label':'undefined'}, (2,3):{'label':'undefined'}},[],axes[1] )
+    Traceback (most recent call last):
+    ...
+    Exception: nothing to cluster. Empty clusters
 
-        clusters cannot be empty
-        >>> fig, axes = plt.subplots(nrows=1, ncols=2, figsize=(7, 5))
-        >>> plot_cluster({ (1,2):{'label':'undefined'}, (2,3):{'label':'undefined'}},[],axes[1] )
-        Traceback (most recent call last):
-        ...
-        Exception: nothing to cluster. Empty clusters
+    clusters cannot be empty
+    >>> fig, axes = plt.subplots(nrows=1, ncols=2, figsize=(7, 5))
+    >>> plot_cluster({ (1,2):{'label':'undefined'}, (2,3):{'label':'undefined'}},[],axes[1] )
+    Traceback (most recent call last):
+    ...
+    Exception: nothing to cluster. Empty clusters
 
-        ax must be a plotable
-        >>> plot_cluster({ (1,2):{'label':'1'}, (2,3):{'label':'2'}},[1,2], [] )
-        Traceback (most recent call last):
-        ...
-        TypeError: ax must be an slot in a matplotlib figure
+    ax must be a plotable
+    >>> plot_cluster({ (1,2):{'label':'1'}, (2,3):{'label':'2'}},[1,2], [] )
+    Traceback (most recent call last):
+    ...
+    TypeError: ax must be an slot in a matplotlib figure
     """
     if len(db) == 0:
         raise Exception("db is empty. No points to cluster")
@@ -161,43 +162,43 @@ def plot_cluster(db, clusters, ax):
 
 def dbscan(db, eps, min_pts):
     """
-        Implementation of the DBSCAN algorithm
+    Implementation of the DBSCAN algorithm
 
-        Points must be in correct format
-        >>> dbscan([], (2,2) ,0.4)
-        Traceback (most recent call last):
-        ...
-        TypeError: db must be a dict of points in the format {(x,y):{'label':'boolean/undefined'}}
+    Points must be in correct format
+    >>> dbscan([], (2,2) ,0.4)
+    Traceback (most recent call last):
+    ...
+    TypeError: db must be a dict of points in the format {(x,y):{'label':'boolean/undefined'}}
 
-        eps value should be a number
-        >>> dbscan({ (1,2):{'label':'undefined'}, (2,3):{'label':'undefined'}},'a',20 )
-        Traceback (most recent call last):
-        ...
-        ValueError: eps should be either int or float
+    eps value should be a number
+    >>> dbscan({ (1,2):{'label':'undefined'}, (2,3):{'label':'undefined'}},'a',20 )
+    Traceback (most recent call last):
+    ...
+    ValueError: eps should be either int or float
 
-        min_pts value should be an integer
-        >>> dbscan({ (1,2):{'label':'undefined'}, (2,3):{'label':'undefined'}},0.4,20.0 )
-        Traceback (most recent call last):
-        ...
-        ValueError: min_pts should be int
+    min_pts value should be an integer
+    >>> dbscan({ (1,2):{'label':'undefined'}, (2,3):{'label':'undefined'}},0.4,20.0 )
+    Traceback (most recent call last):
+    ...
+    ValueError: min_pts should be int
 
-        db cannot be empty
-        >>> dbscan({},0.4,20.0 )
-        Traceback (most recent call last):
-        ...
-        Exception: db is empty, nothing to cluster
+    db cannot be empty
+    >>> dbscan({},0.4,20.0 )
+    Traceback (most recent call last):
+    ...
+    Exception: db is empty, nothing to cluster
 
-        min_pts cannot be negative
-        >>> dbscan({ (1,2):{'label':'undefined'}, (2,3):{'label':'undefined'}}, 0.4, -20)
-        Traceback (most recent call last):
-        ...
-        ValueError: min_pts or eps cannot be negative
+    min_pts cannot be negative
+    >>> dbscan({ (1,2):{'label':'undefined'}, (2,3):{'label':'undefined'}}, 0.4, -20)
+    Traceback (most recent call last):
+    ...
+    ValueError: min_pts or eps cannot be negative
 
-        eps cannot be negative
-        >>> dbscan({ (1,2):{'label':'undefined'}, (2,3):{'label':'undefined'}},-0.4, 20)
-        Traceback (most recent call last):
-        ...
-        ValueError: min_pts or eps cannot be negative
+    eps cannot be negative
+    >>> dbscan({ (1,2):{'label':'undefined'}, (2,3):{'label':'undefined'}},-0.4, 20)
+    Traceback (most recent call last):
+    ...
+    ValueError: min_pts or eps cannot be negative
 
     """
     if not isinstance(db, dict):
