@@ -40,7 +40,6 @@
     * [Movie Recommendation Sentance Embedding](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/Natural%20language%20processing/Movie_recommendation_Sentance_Embedding.ipynb)
     * [Named Entity Recognition With Conditional Random Fields](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/Natural%20language%20processing/Named%20Entity%20Recognition%20with%20Conditional%20Random%20Fields.ipynb)
   * Numpy
-    * [Data Structure Of Numpy](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/Numpy/Data%20structure%20of%20numpy.ipynb)
     * [Fundamentals Of Numpy](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/Numpy/Fundamentals%20of%20Numpy.ipynb)
   * Pandas
     * [Pandas](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/Pandas/Pandas.ipynb)
@@ -56,7 +55,6 @@
     * [Reuters One Vs Rest Classifier](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/Reuters_one_vs_rest_classifier/reuters_one_vs_rest_classifier.ipynb)
   * Scikit-Learn
     * [Scikit-Learn](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/Scikit-learn/Scikit-learn.ipynb)
-    * [Sklearn](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/Scikit-learn/skLearn.ipynb)
   * Support Vector Machine
     * [Support Vector Machine](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/Support_Vector_Machine/Support%20Vector%20Machine.ipynb)
 
