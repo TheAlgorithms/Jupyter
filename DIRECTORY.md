@@ -42,6 +42,7 @@
     * [Fundamentals Of Numpy](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/Numpy/Fundamentals%20of%20Numpy.ipynb)
   * Pandas
     * [Pandas](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/Pandas/Pandas.ipynb)
+  * [Pie And Histogram](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/pie%20and%20histogram.ipynb)
   * Prophet
     * [Prophet](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/Prophet/Prophet.ipynb)
   * Random Forest Classification
