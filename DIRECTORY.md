@@ -29,6 +29,7 @@
     * [Linearregression](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/Linear_Regression/LinearRegression.ipynb)
   * Matplotlib
     * [Matplotlib](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/Matplotlib/Matplotlib.ipynb)
+    * [Piechart](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/Matplotlib/PieChart.ipynb)
   * Movie Recommendation System
     * [Movie Recommendation System](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/Movie_recommendation_system/Movie_Recommendation_System.ipynb)
   * Naive Bayes Classification
@@ -39,6 +40,7 @@
     * [Movie Recommendation Sentance Embedding](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/Natural%20language%20processing/Movie_recommendation_Sentance_Embedding.ipynb)
     * [Named Entity Recognition With Conditional Random Fields](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/Natural%20language%20processing/Named%20Entity%20Recognition%20with%20Conditional%20Random%20Fields.ipynb)
   * Numpy
+    * [Data Structure Of Numpy](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/Numpy/Data%20structure%20of%20numpy.ipynb)
     * [Fundamentals Of Numpy](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/Numpy/Fundamentals%20of%20Numpy.ipynb)
   * Pandas
     * [Pandas](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/Pandas/Pandas.ipynb)
@@ -54,6 +56,7 @@
     * [Reuters One Vs Rest Classifier](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/Reuters_one_vs_rest_classifier/reuters_one_vs_rest_classifier.ipynb)
   * Scikit-Learn
     * [Scikit-Learn](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/Scikit-learn/Scikit-learn.ipynb)
+    * [Sklearn](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/Scikit-learn/skLearn.ipynb)
   * Support Vector Machine
     * [Support Vector Machine](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/Support_Vector_Machine/Support%20Vector%20Machine.ipynb)
 
@@ -79,6 +82,7 @@
 ## Numerical Methods
   * [Euler Method For The Cauchy Problem](https://github.com/TheAlgorithms/Jupyter/blob/master/numerical_methods/euler_method_for_the_Cauchy_problem.ipynb)
   * [Newton Forward Divided Difference Formula](https://github.com/TheAlgorithms/Jupyter/blob/master/numerical_methods/newton_forward_divided_difference_formula.ipynb)
+  * [Sklearn](https://github.com/TheAlgorithms/Jupyter/blob/master/numerical_methods/skLearn.ipynb)
   * [The Rectangular Method](https://github.com/TheAlgorithms/Jupyter/blob/master/numerical_methods/the_rectangular_method.ipynb)
   * [The Simpson’S Method](https://github.com/TheAlgorithms/Jupyter/blob/master/numerical_methods/the_Simpson’s_method.ipynb)
   * [The Trapezium Method](https://github.com/TheAlgorithms/Jupyter/blob/master/numerical_methods/the_trapezium_method.ipynb)
