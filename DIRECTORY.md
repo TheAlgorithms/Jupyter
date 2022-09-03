@@ -79,7 +79,6 @@
 ## Numerical Methods
   * [Euler Method For The Cauchy Problem](https://github.com/TheAlgorithms/Jupyter/blob/master/numerical_methods/euler_method_for_the_Cauchy_problem.ipynb)
   * [Newton Forward Divided Difference Formula](https://github.com/TheAlgorithms/Jupyter/blob/master/numerical_methods/newton_forward_divided_difference_formula.ipynb)
-  * [Sklearn](https://github.com/TheAlgorithms/Jupyter/blob/master/numerical_methods/skLearn.ipynb)
   * [The Rectangular Method](https://github.com/TheAlgorithms/Jupyter/blob/master/numerical_methods/the_rectangular_method.ipynb)
   * [The Simpson’S Method](https://github.com/TheAlgorithms/Jupyter/blob/master/numerical_methods/the_Simpson’s_method.ipynb)
   * [The Trapezium Method](https://github.com/TheAlgorithms/Jupyter/blob/master/numerical_methods/the_trapezium_method.ipynb)
