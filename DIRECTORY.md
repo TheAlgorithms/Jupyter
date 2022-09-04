@@ -39,6 +39,7 @@
     * [Movie Recommendation Sentance Embedding](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/Natural%20language%20processing/Movie_recommendation_Sentance_Embedding.ipynb)
     * [Named Entity Recognition With Conditional Random Fields](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/Natural%20language%20processing/Named%20Entity%20Recognition%20with%20Conditional%20Random%20Fields.ipynb)
   * Numpy
+    * [Data Frame](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/Numpy/data_frame.ipynb)
     * [Fundamentals Of Numpy](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/Numpy/Fundamentals%20of%20Numpy.ipynb)
   * Pandas
     * [Pandas](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/Pandas/Pandas.ipynb)
