@@ -29,6 +29,7 @@
     * [Linearregression](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/Linear_Regression/LinearRegression.ipynb)
   * Matplotlib
     * [Matplotlib](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/Matplotlib/Matplotlib.ipynb)
+    * [Piechart](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/Matplotlib/PieChart.ipynb)
   * Movie Recommendation System
     * [Movie Recommendation System](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/Movie_recommendation_system/Movie_Recommendation_System.ipynb)
   * Naive Bayes Classification
