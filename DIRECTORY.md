@@ -5,6 +5,10 @@
   * [Pushdown Automata Implementation](https://github.com/TheAlgorithms/Jupyter/blob/master/Automaton/Pushdown_Automata_Implementation.ipynb)
   * [Scrapnewsfromindiatoday](https://github.com/TheAlgorithms/Jupyter/blob/master/Automaton/ScrapNewsfromIndiaToday.ipynb)
 
+## [Gradient Descent](https://github.com/TheAlgorithms/Jupyter/blob/master//gradient_descent.ipynb)
+
+## [Gradient Descent](https://github.com/TheAlgorithms/Jupyter/blob/master//gradient_descent.py)
+
 ## Machine Learning
   * Arima
     * [Arima With Pyramid](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/ARIMA/ARIMA%20with%20pyramid.ipynb)
