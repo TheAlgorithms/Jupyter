@@ -5,6 +5,10 @@
   * [Pushdown Automata Implementation](https://github.com/TheAlgorithms/Jupyter/blob/master/Automaton/Pushdown_Automata_Implementation.ipynb)
   * [Scrapnewsfromindiatoday](https://github.com/TheAlgorithms/Jupyter/blob/master/Automaton/ScrapNewsfromIndiaToday.ipynb)
 
+## [Gradient Descent](https://github.com/TheAlgorithms/Jupyter/blob/master//gradient_descent.ipynb)
+
+## [Gradient Descent](https://github.com/TheAlgorithms/Jupyter/blob/master//gradient_descent.py)
+
 ## Machine Learning
   * Arima
     * [Arima With Pyramid](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/ARIMA/ARIMA%20with%20pyramid.ipynb)
@@ -39,9 +43,13 @@
     * [Movie Recommendation Sentance Embedding](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/Natural%20language%20processing/Movie_recommendation_Sentance_Embedding.ipynb)
     * [Named Entity Recognition With Conditional Random Fields](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/Natural%20language%20processing/Named%20Entity%20Recognition%20with%20Conditional%20Random%20Fields.ipynb)
   * Numpy
+    * [Face Recognition Using Eigenfaces](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/Numpy/face_recognition_using_eigenFaces.ipynb)
     * [Fundamentals Of Numpy](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/Numpy/Fundamentals%20of%20Numpy.ipynb)
   * Pandas
     * [Pandas](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/Pandas/Pandas.ipynb)
+  * Piecewise
+    * [Piecewise Linear Transform](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/Piecewise/piecewise_linear_transform.ipynb)
+  * [Price Prediction Model](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/price_prediction_model.ipynb)
   * Prophet
     * [Prophet](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/Prophet/Prophet.ipynb)
   * Random Forest Classification
