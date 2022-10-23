@@ -5,6 +5,10 @@
   * [Pushdown Automata Implementation](https://github.com/TheAlgorithms/Jupyter/blob/master/Automaton/Pushdown_Automata_Implementation.ipynb)
   * [Scrapnewsfromindiatoday](https://github.com/TheAlgorithms/Jupyter/blob/master/Automaton/ScrapNewsfromIndiaToday.ipynb)
 
+## [Gradient Descent](https://github.com/TheAlgorithms/Jupyter/blob/master//gradient_descent.ipynb)
+
+## [Gradient Descent](https://github.com/TheAlgorithms/Jupyter/blob/master//gradient_descent.py)
+
 ## Machine Learning
   * Arima
     * [Arima With Pyramid](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/ARIMA/ARIMA%20with%20pyramid.ipynb)
@@ -39,10 +43,13 @@
     * [Movie Recommendation Sentance Embedding](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/Natural%20language%20processing/Movie_recommendation_Sentance_Embedding.ipynb)
     * [Named Entity Recognition With Conditional Random Fields](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/Natural%20language%20processing/Named%20Entity%20Recognition%20with%20Conditional%20Random%20Fields.ipynb)
   * Numpy
-    * [Data Frame](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/Numpy/data_frame.ipynb)
+    * [Face Recognition Using Eigenfaces](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/Numpy/face_recognition_using_eigenFaces.ipynb)
     * [Fundamentals Of Numpy](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/Numpy/Fundamentals%20of%20Numpy.ipynb)
   * Pandas
     * [Pandas](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/Pandas/Pandas.ipynb)
+  * Piecewise
+    * [Piecewise Linear Transform](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/Piecewise/piecewise_linear_transform.ipynb)
+  * [Price Prediction Model](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/price_prediction_model.ipynb)
   * [Pie And Histogram](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/pie%20and%20histogram.ipynb)
   * Prophet
     * [Prophet](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/Prophet/Prophet.ipynb)
@@ -67,6 +74,7 @@
   * [Fully Connected Neural Network](https://github.com/TheAlgorithms/Jupyter/blob/master/neural_network/fully_connected_neural_network.ipynb)
   * Gans-Pytorch-Vanilla-Ls-Dc
     * [Gans Pytorch](https://github.com/TheAlgorithms/Jupyter/blob/master/neural_network/GANs-PyTorch-Vanilla-LS-DC/GANs_PyTorch.ipynb)
+    * [Image Enhancement Using Gfp Gan](https://github.com/TheAlgorithms/Jupyter/blob/master/neural_network/GANs-PyTorch-Vanilla-LS-DC/Image_Enhancement_Using_GFP_GAN.ipynb)
   * [Logistic Regression](https://github.com/TheAlgorithms/Jupyter/blob/master/neural_network/Logistic_Regression.ipynb)
   * [Neural Network Mnist Dataset](https://github.com/TheAlgorithms/Jupyter/blob/master/neural_network/Neural_network_Mnist_Dataset.ipynb)
   * [Qlearning](https://github.com/TheAlgorithms/Jupyter/blob/master/neural_network/qlearning.ipynb)
