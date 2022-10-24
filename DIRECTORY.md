@@ -73,6 +73,7 @@
   * [Fully Connected Neural Network](https://github.com/TheAlgorithms/Jupyter/blob/master/neural_network/fully_connected_neural_network.ipynb)
   * Gans-Pytorch-Vanilla-Ls-Dc
     * [Gans Pytorch](https://github.com/TheAlgorithms/Jupyter/blob/master/neural_network/GANs-PyTorch-Vanilla-LS-DC/GANs_PyTorch.ipynb)
+    * [Image Enhancement Using Gfp Gan](https://github.com/TheAlgorithms/Jupyter/blob/master/neural_network/GANs-PyTorch-Vanilla-LS-DC/Image_Enhancement_Using_GFP_GAN.ipynb)
   * [Logistic Regression](https://github.com/TheAlgorithms/Jupyter/blob/master/neural_network/Logistic_Regression.ipynb)
   * [Neural Network Mnist Dataset](https://github.com/TheAlgorithms/Jupyter/blob/master/neural_network/Neural_network_Mnist_Dataset.ipynb)
   * [Qlearning](https://github.com/TheAlgorithms/Jupyter/blob/master/neural_network/qlearning.ipynb)
