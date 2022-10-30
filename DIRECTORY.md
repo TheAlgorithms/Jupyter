@@ -45,6 +45,7 @@
   * Numpy
     * [Face Recognition Using Eigenfaces](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/Numpy/face_recognition_using_eigenFaces.ipynb)
     * [Fundamentals Of Numpy](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/Numpy/Fundamentals%20of%20Numpy.ipynb)
+    * [Image Denoising Using Numpy](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/Numpy/Image_Denoising_Using_Numpy.ipynb)
   * Pandas
     * [Pandas](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/Pandas/Pandas.ipynb)
   * Piecewise
@@ -88,6 +89,7 @@
 ## Numerical Methods
   * [Euler Method For The Cauchy Problem](https://github.com/TheAlgorithms/Jupyter/blob/master/numerical_methods/euler_method_for_the_Cauchy_problem.ipynb)
   * [Newton Forward Divided Difference Formula](https://github.com/TheAlgorithms/Jupyter/blob/master/numerical_methods/newton_forward_divided_difference_formula.ipynb)
+  * [Runge Kutta Methods](https://github.com/TheAlgorithms/Jupyter/blob/master/numerical_methods/Runge_Kutta_Methods.ipynb)
   * [The Rectangular Method](https://github.com/TheAlgorithms/Jupyter/blob/master/numerical_methods/the_rectangular_method.ipynb)
   * [The Simpson’S Method](https://github.com/TheAlgorithms/Jupyter/blob/master/numerical_methods/the_Simpson’s_method.ipynb)
   * [The Trapezium Method](https://github.com/TheAlgorithms/Jupyter/blob/master/numerical_methods/the_trapezium_method.ipynb)
