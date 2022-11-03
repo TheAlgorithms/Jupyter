@@ -71,6 +71,7 @@
   * [A-Simple-Gan](https://github.com/TheAlgorithms/Jupyter/blob/master/neural_network/A-simple-GAN.ipynb)
   * [Autoencoder](https://github.com/TheAlgorithms/Jupyter/blob/master/neural_network/autoencoder.ipynb)
   * [Cnn-Using Keras](https://github.com/TheAlgorithms/Jupyter/blob/master/neural_network/CNN-using%20keras.ipynb)
+  * [Cnn Pytorch](https://github.com/TheAlgorithms/Jupyter/blob/master/neural_network/CNN_Pytorch.ipynb)
   * [Fully Connected Neural Network](https://github.com/TheAlgorithms/Jupyter/blob/master/neural_network/fully_connected_neural_network.ipynb)
   * Gans-Pytorch-Vanilla-Ls-Dc
     * [Gans Pytorch](https://github.com/TheAlgorithms/Jupyter/blob/master/neural_network/GANs-PyTorch-Vanilla-LS-DC/GANs_PyTorch.ipynb)
