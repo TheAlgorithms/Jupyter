@@ -13,3 +13,4 @@ scikit-fuzzy
 pillow
 beautifulsoup4
 skia-python
+algviz>=0.3.0
