@@ -106,6 +106,17 @@ Now submit the pull request.
 
 Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
 
+## Contributing new algorithms
+
+- Make your pull requests to be **specific** and **focused**. Instead of contributing "several algorithms" all at once contribute them all one by one separately (i.e. one pull request for "Logistic Regression", another one for "K-Means" and so on).
+
+- Every new algorithm must have:
+  - **Source code** with comments and readable namings
+  - **Math** being explained in README.md along with the code
+  - **Jupyter demo notebook** with example of how this new algorithm may be applied
+
+If you're adding new **datasets** they need to be saved in the `/data` folder. CSV files are preferable. The size of the file should not be greater than `30Mb`.
+
 ## Where to go from here?
 
 Congrats! You just completed the standard _fork -> clone -> edit -> PR_ workflow that you'll encounter often as a contributor!
