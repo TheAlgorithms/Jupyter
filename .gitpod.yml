@@ -1,19 +1,15 @@
-image:
-  file: .gitpod.Dockerfile
-
 tasks:
   - init: pip install -r ./requirements.txt
 
 vscode:
   extensions:
-    - almenon.arepl@2.0.1:JWXhed/Ti1CHdOqmOfP5wg==
-    - dendron.dendron-markdown-preview-enhanced@0.10.22:iKz57LDwKh6E4XlWzcsIVA==
+    - almenon.arepl
+    - ms-toolsai.jupyter
 
 github:
     prebuilds:
-        # enable for the master/default branch (defaults to true)
         master: true
-        # enable for pull requests coming from this repo (defaults to true)
         pullRequests: true
-        # add a "Review in Gitpod" button as a comment to pull requests (defaults to true)
-        addComment: true
+        addCheck: true
+        addBadge: true
+        pullRequestsFromForks: true
