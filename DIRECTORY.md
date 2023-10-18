@@ -65,6 +65,7 @@
     * [Scikit-Learn](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/Scikit-learn/Scikit-learn.ipynb)
   * Support Vector Machine
     * [Support Vector Machine](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/Support_Vector_Machine/Support%20Vector%20Machine.ipynb)
+  * [Bayesian Belief Network](./machine_learning/bayesian_belief_networks.ipynb)
 
 ## Neural Network
   * [02-Imdb-Binary-Classification](https://github.com/TheAlgorithms/Jupyter/blob/master/neural_network/02-imdb-binary-classification.ipynb)
