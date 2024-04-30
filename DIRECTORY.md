@@ -16,6 +16,7 @@
     * [Association](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/Associative%20Mining/Association.ipynb)
   * Basics Of Tensorflow
     * [Basic Of Tensorflow](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/Basics%20of%20tensorflow/Basic%20of%20TensorFlow.ipynb)
+  * [Bayesian Belief Networks](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/bayesian_belief_networks.ipynb)
   * Cosine-Similarity
     * [Similarity](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/Cosine-Similarity/Similarity.ipynb)
   * Dbscan
@@ -65,7 +66,6 @@
     * [Scikit-Learn](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/Scikit-learn/Scikit-learn.ipynb)
   * Support Vector Machine
     * [Support Vector Machine](https://github.com/TheAlgorithms/Jupyter/blob/master/machine_learning/Support_Vector_Machine/Support%20Vector%20Machine.ipynb)
-  * [Bayesian Belief Network](./machine_learning/bayesian_belief_networks.ipynb)
 
 ## Neural Network
   * [02-Imdb-Binary-Classification](https://github.com/TheAlgorithms/Jupyter/blob/master/neural_network/02-imdb-binary-classification.ipynb)
